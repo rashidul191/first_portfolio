@@ -85,3 +85,45 @@ section{
    height: 500px;
 }
 
+
+.experience-hafe{
+  height: 350px;
+  width: 40%;
+  float: left;
+  box-shadow: 0px 0px 15px 0px gray;
+  padding-left: 2%;
+  margin-left: 5%;
+
+}
+.exp-heading-style{
+  color: orange;
+  
+}
+
+#experiences-heading{
+  text-align: center;
+}
+
+#experience{
+  background-image: url(images/exp-bg.png);
+  background-repeat: no-repeat;
+  padding-bottom: 150px;
+  background-position: left;
+}
+
+#experience-border-1{
+  border-image: linear-gradient(lightsalmon, tomato);
+  border-left: 7px solid ;
+  border-image-slice: 1;
+ 
+}
+
+#experience-border-2{
+  border-image: linear-gradient(blue, cyan );
+  border-left: 7px solid ;
+  border-image-slice: 1;
+}
+
+footer p{
+  text-align: center;
+}
